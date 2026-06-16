@@ -1,0 +1,6 @@
+payment_id,order_id,payment_method,payment_status,payment_date
+PAY001,O101,Credit Card,Completed,2026-06-01
+PAY002,O102,UPI,Completed,2026-06-02
+PAY003,O103,Debit Card,Completed,2026-06-03
+PAY004,O104,UPI,Completed,2026-06-05
+PAY005,O105,Net Banking,Pending,2026-06-08

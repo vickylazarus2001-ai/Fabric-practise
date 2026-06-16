@@ -1,0 +1,6 @@
+customer_id,customer_name,city,country,signup_date
+C001,Alice,Hyderabad,India,2025-01-10
+C002,Bob,Bangalore,India,2025-02-15
+C003,Charlie,Chennai,India,2025-03-05
+C004,David,Mumbai,India,2025-04-20
+C005,Eva,Delhi,India,2025-05-11
